@@ -69,6 +69,8 @@
 │         └──  Square.php 
 │         └──  Judge.php 
 │         └──  Factorial.php 
+|         └──  HashTable.php
+|         └──  RotateSort.php  
 │     
 ├──LICENSE 
 └──README.md
